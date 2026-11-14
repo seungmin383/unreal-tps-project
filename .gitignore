@@ -1,0 +1,10 @@
+# Unreal Engine generated files
+/Binaries/
+/DerivedDataCache/
+/Intermediate/
+/Saved/
+
+# Local IDE files and generated solutions
+/.idea/
+/.vs/
+/*.sln
